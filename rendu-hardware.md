@@ -45,13 +45,11 @@ Dans cette filière l'usage d'outil 3D est nécessaire ainsi j'ai chercher l'out
     Disk Space	10.0 GB
     Network	See Autodesk Network License Manager for Windows
     Pointing Device	MS-Mouse compliant
-```
 Ainsi après quelques recherches
 Le PC Correspondant le plus à ces critères et permettant de faire tourner 
 la majorité des outil utilisé en architecture 
 est l' Ordinateur portable XPS 15 et il possèdes ces caractéristiques :
 
-```
     XPS 15
     Processeur Intel® Core™ i7-13700H de 13e génération (cache 24 Mo, 14 coeurs, jusqu‘à 5,00 GHz Turbo)
 
@@ -86,7 +84,6 @@ Ainsi voici la config minimal requise pour utiliser VirtualBox :
     At least 25 GB of disk space for the VM that Game provides
     We recommend having even more space available if you want to be able to comfortably solve challenges in the Forensics Base which requires you to work with large files.
 
-```
 En revanche il est préfèrable d'avoir dans cette filière un PC avec une carte graphique et une assez bonne RAM soit 16go et environ 500go de stockage sur le disque,donc selon moi un bon pc pour cette filière serait le Acer Nitro 5 AN515-58-57Y8 Gaming Laptop comportant ces caractéristiques:
 
 ```
