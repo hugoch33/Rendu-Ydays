@@ -8,7 +8,7 @@
     Carte graphique: une carte graphique compatible avec DirectX 11 ou 12
 
 Cette configuration est la minimum requise pour faire tourner unreal engine 5(sachant qu'unreal engine est l'outil de création 3d en temps réel le plus avancé au monde)
-Cependant pour un configuration j'opterez pour ce pc:
+Cependant pour un configuration j'opterez pour ce pc qui me paraît être un bon compromis entre le prix et l'efficacité:
 
     HP OMEN 15-ek1013dx 15.6" Full HD    
     Brand	HP
@@ -21,9 +21,7 @@ Cependant pour un configuration j'opterez pour ce pc:
     Operating System	Windows 11 Home
     Graphics Card Description	Dedicated
     Graphics Coprocessor	NVIDIA GeForce RTX 3070
-    Prix : 1105$
-
-Qui me paraît être un bon compromis entre le prix et l'efficacité 
+    Prix : 1035,57 €
 
 ```
 
@@ -47,6 +45,7 @@ Dans cette filière l'usage d'outil 3D est nécessaire ainsi j'ai chercher l'out
     Network	See Autodesk Network License Manager for Windows
     Pointing Device	MS-Mouse compliant
 
+
 Ainsi après quelques recherches ,Le PC Correspondant le plus à ces critères et permettant de faire tourner la majorité des outil utilisé en architecture est l' Ordinateur portable XPS 15 et il possèdes ces caractéristiques :
 
     XPS 15
@@ -68,5 +67,7 @@ Ainsi après quelques recherches ,Le PC Correspondant le plus à ces critères e
 
     Stockage
     Disque SSD M.2 PCIe NVMe de 512 Go
+    
+    Prix: 1 207,80 €
 
 ```
