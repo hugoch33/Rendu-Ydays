@@ -1,6 +1,6 @@
 # 3D, Animation & Jeux vidéo
 
-    Config minimal :
+Config minimal :
 
     Operating system :Windows 10 64-bit version 1909 revision 1350 or higher, ou versions 2004 and 20H2 revision 789 ou plus
     Processeur: Quad-core Intel or AMD, 2.5 GHz
@@ -23,8 +23,6 @@ Cependant pour un configuration j'opterez pour ce pc qui me paraît être un bon
     Graphics Coprocessor	NVIDIA GeForce RTX 3070
     Prix : 1035,57 €
 
-```
-
 # Architecture d'Intérieur & Bâtiment Numérique
 
 Dans cette filière l'usage d'outil 3D est nécessaire ainsi j'ai chercher l'outil de conception 3D le plus avancé et la config minimal requise pour le faire tourner (il s'agit d'Autodesk et aussi d'ArchiCAD)
@@ -45,6 +43,7 @@ Dans cette filière l'usage d'outil 3D est nécessaire ainsi j'ai chercher l'out
     Network	See Autodesk Network License Manager for Windows
     Pointing Device	MS-Mouse compliant
 
+```
 
 Ainsi après quelques recherches ,Le PC Correspondant le plus à ces critères et permettant de faire tourner la majorité des outil utilisé en architecture est l' Ordinateur portable XPS 15 et il possèdes ces caractéristiques :
 
