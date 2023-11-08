@@ -46,7 +46,9 @@ Dans cette filière l'usage d'outil 3D est nécessaire ainsi j'ai chercher l'out
 
 ```
 
-Ainsi après quelques recherches ,Le PC Correspondant le plus à ces critères et permettant de faire tourner la majorité des outil utilisé en architecture est l' Ordinateur portable XPS 15 et il possèdes ces caractéristiques :
+Ainsi après quelques recherches ,
+Le PC Correspondant le plus à ces critères et permettant de faire tourner la majorité des outil utilisé en architecture 
+est l' Ordinateur portable XPS 15 et il possèdes ces caractéristiques :
 
 ```
     XPS 15
