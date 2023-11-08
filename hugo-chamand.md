@@ -99,6 +99,63 @@ En revanche il est préfèrable d'avoir dans cette filière un PC avec une carte
     Graphics Card NVIDIA GeForce RTX 3050 Ti Laptop GPU
 
     Prix : 755,14 €
+```
+
+# Création & Digital Design
+
+Au sein de cette filière les outils les nécessiteux envers votre PC sont les outils de motion design on peut en retrouver plusieurs comme Adobe After Effects, Adobe XD, Figma, Sketch etc...
 
 
-# Marketing & Communication Digitale
+Ainsi pour moi le PC idéal serait le MacBook Air  équipé d'une puce M2 et comportant ces caractéristiques :
+
+    Écran Liquid Retina
+    de 13,6 ou 15,3 pouces
+
+    Puce Apple M2
+
+    8 Go à 24 Go
+    de mémoire unifiée
+
+    256 Go à 2 To de stockage3
+
+    Jusqu’à 18 heures d’autonomie6
+
+    Touch ID
+
+# Audiovisuel
+
+Dans cette filière l'utilisation d'un PC est essentiel quant à l'utilisation de logiciel permettant de monter et d'éditer des vidéos selon google le meilleur logiciel de montage au monde serait adobe premiere pro et voici les specifications nécessaires pour l'utiliser: 
+
+### Config minimal
+
+    An Intel 6thGen or newer CPU - or an AMD Ryzen 1000 series or newer CPU.
+    Microsoft Windows 10 (64-bit) version 1909 or later.
+    8 GB of Ram.
+    2 GB of GPU memory.
+    8 GB of hard disk space for installation.
+    1920 x 1080 display.
+    An ASIO-compatible sound card.
+    Internet connection.
+
+Si l'on prend cela en compte et avec éventuellement l'utilisation de logiciels 3D
+je pense que le mieux serait d'opter pour un MacBook Pro qui possède ces caractéristiques :
+
+    1 999 €
+    (Modèle SSD 512 Go)
+    Puce Apple M3
+
+    CPU 8 cœurs avec 4 cœurs de performance et 4 cœurs à haute efficacité énergétique
+    GPU 10 cœurs
+    Ray tracing à accélération matérielle
+    Neural Engine 16 cœurs
+    100 Go/s de bande passante mémoire
+    —
+    Écran Liquid Retina XDR de 14,2 pouces (diagonale)1 ; résolution native de 3 024 x 1 964 pixels à 254 pixels par pouce
+    8 Go de mémoire unifiée
+    Configurable en :
+
+    16 Go ou 24 Go
+    Stockage
+    512 Go ou 1 To
+
+    SSD de 512 Go ou 1 To
