@@ -48,8 +48,8 @@ Dans cette filière l'usage d'outil 3D est nécessaire ainsi j'ai chercher l'out
 
 Ainsi après quelques recherches ,Le PC Correspondant le plus à ces critères et permettant de faire tourner la majorité des outil utilisé en architecture est l' Ordinateur portable XPS 15 et il possèdes ces caractéristiques :
 
+```
     XPS 15
-    Processeur
     Processeur Intel® Core™ i7-13700H de 13e génération (cache 24 Mo, 14 coeurs, jusqu‘à 5,00 GHz Turbo)
 
     Système d'exploitation
